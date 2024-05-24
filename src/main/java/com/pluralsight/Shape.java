@@ -41,5 +41,5 @@ public abstract class Shape {
 
     public abstract void paint();
 
-    public abstract void getLocation();
+    public abstract Point getLocation();
 }
